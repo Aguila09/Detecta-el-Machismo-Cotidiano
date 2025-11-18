@@ -1,0 +1,22 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (por si se añaden en el futuro)
+node_modules/
+
+# Build outputs (por si se añaden en el futuro)
+dist/
+build/
